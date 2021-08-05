@@ -29,7 +29,7 @@ My goal is to join a team that is always willing to educate and learn from each 
 
 ---
 
-<h3 align="left">Languages and Tools: </h3>
+<h3 align="left">:star2: Languages and Tools: :star2: </h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="c" width="40" height="40"/> </a>
@@ -43,9 +43,9 @@ My goal is to join a team that is always willing to educate and learn from each 
 
 
 ---
-<h3 align="left">Contact or Connect: :mailbox:</h3>
+<h3 align="left">Lets Connect: :mailbox: </h3>
 <p align="left">
-  <a href="https://twitter.com/MarcFelixRodrig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/marcos-rodriguez-felix/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="" height="30" width="40" /></a>
-  <a href="https://github.com/MarcRodrigFelix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" style="color: #55ACEE;"/></a>
+  <a href="https://twitter.com/MarcFelixRodrig" target="blank"><img align="center" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="" height="30" width="40" /></a>
+  <a href="https://github.com/MarcRodrigFelix" target="blank"><img align="center" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="" height="30" width="40" style="color: #55ACEE;"/></a>
 </p>
