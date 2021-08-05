@@ -26,4 +26,4 @@ Full Stack engineer experienced with Ruby on Rails and Javascript. With a backgr
 Skills
 ---
 
-<i class="devicon-javascript-plain"></i>
+<!-- <i class="devicon-javascript-plain"></i> -->
