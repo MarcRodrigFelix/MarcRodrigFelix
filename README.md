@@ -33,7 +33,7 @@ My goal is to join a team that is always willing to educate and learn from each 
 
 <h3>Projects: :boom: </h3>
 <p>
-<h4>Track My Games :video_game:</h4>
+<h4>Track My Games :video_game: <a href="https://github.com/MarcRodrigFelix/track-my-games-frontend.git">Link</a></h4>
 :dash: Game tracking app that will help keep track of games a user is currently playing.
 
 <h4>Labs And Things :syringe: :page_facing_up:</h4> 
