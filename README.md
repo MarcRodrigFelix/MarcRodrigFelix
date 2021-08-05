@@ -36,10 +36,10 @@ My goal is to join a team that is always willing to educate and learn from each 
 <h4>Track My Games :video_game: <a href="https://github.com/MarcRodrigFelix/track-my-games-frontend.git">Frontend Code</a> | <a href="https://github.com/MarcRodrigFelix/track-my-games-backend.git">Backend Code</a> | <a href="https://drive.google.com/file/d/1aPIPkIYZOq3fGB19POk8hFj-DgKs9f_J/view?usp=sharing">Demo</a> </h4>
 :dash: Game tracking app that will help keep track of games a user is currently playing.
 
-<h4>Labs And Things :syringe: :page_facing_up:</h4> 
+<h4>Labs And Things :syringe: :page_facing_up: <a href="https://github.com/MarcRodrigFelix/labs-and-things.git">Code</a> | <a href="https://drive.google.com/file/d/16BZOAXdwxQcz5PIAcg0lHg9tRbzCvbt2/view?usp=sharing">Demo</a></h4> 
 :dash: Application to keep track of Dr. appointments and Lab visits.
 
-<h4>U Should Play :video_game:</h4>
+<h4>U Should Play :video_game: <a href="https://github.com/MarcRodrigFelix/u_should_play.git">Code</a> | <a href="https://drive.google.com/file/d/1qR4oqUYNixDV_55WH5hF2WfALoaXchit/view?usp=sharing">Demo</a> </h4>
 :dash: SPA(Single Page Application) where users can share games they’ve enjoyed so others can experience them.
 </p>
 
