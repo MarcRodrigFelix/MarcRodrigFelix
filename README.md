@@ -27,9 +27,27 @@ From the first line of HTML code I wrote, I knew that coding had to be my career
 
 My goal is to join a team that is always willing to educate and learn from each other, to push further together. :muscle:
 
+
+
 ---
 
-<h3 align="left">:star2: Languages and Tools: :star2: </h3>
+<h3>Projects: :boom: </h3>
+<p>
+<h4>Track My Games :video_game:</h4>
+:dash: Game tracking app that will help keep track of games a user is currently playing.
+
+<h4>Labs And Things :syringe: :page_facing_up:</h4> 
+:dash: Application to keep track of Dr. appointments and Lab visits.
+
+<h4>U Should Play :video_game:</h4>
+:dash: SPA(Single Page Application) where users can share games they’ve enjoyed so others can experience them.
+</p>
+
+
+
+---
+
+<h3 align="left">Languages and Tools: :star2: </h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="c" width="40" height="40"/> </a>
@@ -40,6 +58,8 @@ My goal is to join a team that is always willing to educate and learn from each 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
+
+
 
 
 ---
